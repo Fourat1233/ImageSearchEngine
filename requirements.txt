@@ -1,0 +1,5 @@
+Flask
+scipy
+opencv-python
+matplotlib
+colour
